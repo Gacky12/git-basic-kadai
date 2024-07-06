@@ -1,113 +1,129 @@
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai [5:47:07]
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:09:41]
+$ ls -la
+total 0
+drwxr-xr-x   4 inagakijunichi  staff  128  7  7 06:07 .
+drwxr-xr-x  23 inagakijunichi  staff  736  7  6 05:47 ..
+drwxr-xr-x  12 inagakijunichi  staff  384  7  7 06:07 .git
+drwxr-xr-x   4 inagakijunichi  staff  128  7  6 06:16 kadai_005
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:10:32]
 $ mkdir git_challenge
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai [5:47:28]
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:10:46]
 $ cd git_challenge
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge [5:48:12]
-$ ls
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:10:48]
+$ touch hello_world.txt
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge [5:48:13]
-$ mkdir git_challenge
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:10:57]
+$ nano hello_world.txt
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge [5:48:15]
-$ ls
-git_challenge
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:11:26]
+$ cat hello_world.txt
+Hello, world!
 
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:11:30]
+$ cd ..
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:12:11]
   UW PICO 5.09                                                 New Buffer
+
+
 
                                                        [ Read 1 line ]
 ^G Get Help         ^O WriteOut         ^R Read File        ^Y Prev Pg          ^K Cut Text         ^C Cur Pos
 ^X Exit             ^J Justify          ^W Where is         ^V Next Pg          ^U UnCut Text       ^T To Spell
-  UW PICO 5.09               BROWSER    Dir: /Users/inagakijunichi
+$ ls
+git_challenge kadai_005
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge [5:48:17]
-$ git init
-Initialized empty Git repository in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/.git/
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [5:48:56]
-$ ls -la
-total 0
-drwxr-xr-x   4 inagakijunichi  staff  128  7  6 05:48 .
-drwxr-xr-x  23 inagakijunichi  staff  736  7  6 05:47 ..
-drwxr-xr-x   9 inagakijunichi  staff  288  7  6 05:48 .git
-drwxr-xr-x   2 inagakijunichi  staff   64  7  6 05:48 git_challenge
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [5:49:01]
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:12:11]
 $ git add git_challenge
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [5:49:18]
-$ cd git_challenge
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main o [5:49:37]
-$ touch hello_world.txt
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [5:49:50]
-$ ls
-hello_world.txt
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [5:49:50]
-$ nano hello_world.txt
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [5:53:20]
-$ cat hello_world.txt
-Hello, world!
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [5:53:25]
-$ ls
-hello_world.txt
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [5:57:23]
-$ cd ..
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [5:57:25]
-$ ls
-git_challenge
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [5:57:27]
-$ ls -la
-total 0
-drwxr-xr-x   4 inagakijunichi  staff  128  7  6 05:48 .
-drwxr-xr-x  23 inagakijunichi  staff  736  7  6 05:47 ..
-drwxr-xr-x   9 inagakijunichi  staff  288  7  6 05:49 .git
-drwxr-xr-x   3 inagakijunichi  staff   96  7  6 05:49 git_challenge
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [5:59:06] C:1
-$ git add git_challenge
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [5:59:21]
-$ git commit -m "first comit"
-[main (root-commit) dcde7a8] first comit
- 1 file changed, 1 insertion(+)
- create mode 100644 git_challenge/hello_world.txt
-
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [5:59:26]
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:12:15]
 $ git status
 On branch main
-nothing to commit, working tree clean
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   git_challenge/hello_world.txt
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [5:59:57]
-$ git log --oneline
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	kadai_005/
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [6:00:17]
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:12:23]
+$ git commit -m "hello_world.txtを追加"
+[main 9f89265] hello_world.txtを追加
+ 1 file changed, 1 deletion(-)
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:12:59]
 $ cd git_challenge
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main o [6:00:37]
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:13:16]
 $ nano hello_world.txt
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:01:34]
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:13:47]
 $ cat hello_world.txt
 Hello, world!
-こんにちは、世界!
+こんにちは、世界！
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:01:54]
-$ git add git_challenge
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge/git_challenge on git:main x [6:13:51]
+$ cd ..
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:01:59]
-$ git commit -m "second comit"
-[main 411afba] second comit
- 1 file changed, 1 insertion(+)
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:13:54]
+$ git commit -m "日本語訳を追記"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   git_challenge/hello_world.txt
 
-# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main o [6:02:08]
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	kadai_005/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:14:15] C:1
+$ git log
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:14:33]
 $ git log --oneline
 
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:14:59]
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   git_challenge/hello_world.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	kadai_005/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:15:07]
+  UW PICO 5.09                                                 New Buffer
+
+
+
+                                                     [ Read 113 lines ]
+^G Get Help         ^O WriteOut         ^R Read File        ^Y Prev Pg          ^K Cut Text         ^C Cur Pos
+^X Exit             ^J Justify          ^W Where is         ^V Next Pg          ^U UnCut Text       ^T To Spell
+$ git add git_challenge
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:15:23]
+$ git commit -m "日本語訳を追記"
+[main e2f6f77] 日本語訳を追記
+ 1 file changed, 1 insertion(+)
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:15:28]
+$ git log --oneline
+
+# inagakijunichi @ MacBook-Pro in /Volumes/Extreme SSD/Documents/SAMURAI_TERAKOYA/kadai/git_challenge on git:main x [6:17:39]e2f6f77 (HEAD -> main) 日本語訳を追記
+9f89265 hello_world.txtを追加
+411afba second comit
+dcde7a8 first comit
+(END)
